@@ -1,4 +1,4 @@
-Generador Datos Desafio
+Generador Fechas Desafio
 Este proyecto expone un API REST que entrega la siguiente información:
 
 id: identificador fechaCreacion: Fecha de inicio de la secuencia fechaFin: Fecha de fin de la secuencia fechas: Lista de fechas que están en el rango de la fecha que se encuentra en “fechaCreacion” hasta la fecha “fechaFin” y FechasFaltantes Ejemplo.
